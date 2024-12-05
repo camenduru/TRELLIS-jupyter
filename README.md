@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TRELLIS-jupyter/blob/main/TRELLIS_jupyter.ipynb) | TRELLIS_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TRELLIS-jupyter/blob/main/TRELLIS_jupyter.ipynb) | TRELLIS_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/Microsoft/TRELLIS
