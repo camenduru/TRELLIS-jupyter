@@ -9,6 +9,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TRELLIS-jupyter/blob/main/TRELLIS_jupyter.ipynb) | TRELLIS_jupyter (Pro Colab 😭)
 [![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=khqbpjlryi&ref=iqi9iy8y) | TRELLIS_runpod
 
+### 📋 Runpod Tutorial
+https://x.com/camenduru/status/1864937307632988321
+
 ### 🧬 Code
 https://github.com/Microsoft/TRELLIS
 
